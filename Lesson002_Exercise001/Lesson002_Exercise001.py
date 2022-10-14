@@ -4,7 +4,7 @@ from pickle import FALSE, TRUE
 
 
 n = float(input("Enter Your number: "))
-m = n # For nice display. If you put (n) in line 18 display will be 0->result, because in the end pf the program n==0
+m = n # For nice display. Impossible to print origin (n), because it is processed at the moment of print
 
 myList = []
 
@@ -20,8 +20,7 @@ if n.is_integer() == True: # check if input number (n) is either int or float
     print(int(m), "->", int(sum))
 elif n.is_integer() == False:
     while (n.is_integer() == False):
-        print("n: ", n)
-        n = round((n * 10), 10)
+        n = round((n * 10), 10) # Round to 10 symbols after dot is required for adequate operation of this part of the programm
     k = n
     print(k)
     while k > 0:

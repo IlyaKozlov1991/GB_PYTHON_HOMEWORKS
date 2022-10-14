@@ -24,4 +24,8 @@ Set 2D array from User's console and then sort its elements low->high from left 
 
 Lesson002_Exercise001
 
-Write a program that takes a real or integer number as input and displays the sum of its digits.
+Write a program that takes a real or integer number as input and displays the sum of its digits
+
+Lesson002_Exercise002
+
+Write a program wich takes a number N as input and displays a multiplication of numbers from 1 to N
