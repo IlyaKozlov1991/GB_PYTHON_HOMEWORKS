@@ -21,3 +21,7 @@ Write a simple calculator which will receive: number 1, number 2 and operation a
 Lesson001_Exercise005
 
 Set 2D array from User's console and then sort its elements low->high from left to right and from bottom to top
+
+Lesson002_Exercise001
+
+Write a program that takes a real or integer number as input and displays the sum of its digits.
