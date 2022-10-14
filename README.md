@@ -29,3 +29,7 @@ Write a program that takes a real or integer number as input and displays the su
 Lesson002_Exercise002
 
 Write a program wich takes a number N as input and displays a multiplication of numbers from 1 to N
+
+Lesson002_Exercise003
+
+Write a programm which takes 2 (two) strings as inputs and checks how many time STR1 is present in STR2
