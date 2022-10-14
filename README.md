@@ -32,4 +32,4 @@ Write a program wich takes a number N as input and displays a multiplication of 
 
 Lesson002_Exercise003
 
-Write a programm which takes 2 (two) strings as inputs and checks how many time STR1 is present in STR2
+Write a programm which takes 2 (two) strings as inputs and checks how many times STR1 is found in STR2

@@ -1,4 +1,4 @@
-# Write a programm which takes 2 (two) strings as inputs and checks how many time STR1 is present in STR2
+# Write a programm which takes 2 (two) strings as inputs and checks how many times STR1 is found in STR2
 
 str1 = input("Enter Your firts string (STR1): ")
 str2 = input("Enter Your second string (STR2): ")
@@ -16,6 +16,6 @@ for k in range(len(myList)):
 
 tempVar = counter # Definition of which message to display
 if tempVar != 0:
-    print("\nSTR1 is present in STR2:", tempVar, "times")
+    print("\nSTR1 is found in STR2:", tempVar, "times")
 else:
-    print("\nSTR1 is not present in STR2")
+    print("\nSTR1 is not found in STR2")
