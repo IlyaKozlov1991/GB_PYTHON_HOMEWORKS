@@ -10,5 +10,4 @@ while i <= n:
     result = result * i
     i += 1
     myList.append(result)
-print("If N = 4, then", myList)
-
+print(f'If N = {n}, then {myList}')
