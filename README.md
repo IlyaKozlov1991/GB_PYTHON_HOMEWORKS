@@ -33,3 +33,11 @@ Write a program wich takes a number N as input and displays a multiplication of 
 Lesson002_Exercise003
 
 Write a programm which takes 2 (two) strings as inputs and checks how many times STR1 is found in STR2
+
+Lesson002_Exercise004
+
+Write programm which takes a number (N) and ccordinates of two points as input and find a distance between the points in ND space
+
+Lesson002_Exercise005
+
+Write a code which will check either statement ¬(X ⋁ Y ⋁ Z) = ¬X ⋀ ¬Y ⋀ ¬Z is TRUE or FALSE. Number of predicates is randomly generated from 5 to 25, values of predicates are random. Check the statement 100 times and show how many time was spend
