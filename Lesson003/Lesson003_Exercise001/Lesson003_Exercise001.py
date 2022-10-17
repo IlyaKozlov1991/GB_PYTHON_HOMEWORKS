@@ -1,12 +1,12 @@
-# Set-up a list of numbers. Write a programm which finds sum ODD of list's items.
+# Set-up a list of numbers. Write a program which finds sum ODD of list's items.
 
 from random import randint
 
 
-def create_fill_list (list): # Function to creat and fill a list
+def create_fill_list (list): # Function to create and fill a list
     inter_list = []
     for i in range(randint(5, 10)): # Set-up random length length (from 5 to 10) of the list
-        inter_list.insert(0, randint(0, 10)) # Fill internal list with random numbers from 0 to 10
+        inter_list.insert(0, randint(0, 10)) # Fill internal list with random INT numbers from 0 to 10
         list.append(inter_list[0]) # Fill main list with items from internal list
     print(f'\nYor list: {list}')
 
