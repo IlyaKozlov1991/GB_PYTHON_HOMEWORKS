@@ -15,14 +15,14 @@ def create_fill_list (list): # Function to create and fill a list
 
 def min_max_func(list): # Function to find min and max functional parts
     intert_list = []
-    for k in range(len(list)): # Cycle to cut-ot functional parts and put into internal list
+    for k in range(len(list)): # Cycle to cut-out functional parts and put into internal list
         x = 0
         x = myList[k] * 100
         intert_list.append(x % 100)
     for j in range(len(intert_list)): # Cycle to sort items of inteernal list from min to max
         for l in range(len(intert_list) - j - 1):
             if intert_list[l] > intert_list[l + 1]:
-                intert_list[l], intert_list[l + 1] = intert_list[l + 1], intert_list[l]
+                intert_list[l], intert_list[l + 1] = intert_list[l + 1], intert_list[l] # Swap
     print(f'Min functional part: {intert_list[0] / 100}')
     print(f'Max functional part: {intert_list[len(intert_list) - 1] / 100}')
     print(f'Difference Max-Min: {(intert_list[len(intert_list) - 1] - intert_list[0]) / 100}')
