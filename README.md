@@ -41,3 +41,23 @@ Write programm which takes a number (N) and ccordinates of two points as input a
 Lesson002_Exercise005
 
 Write a code which will check either statement ¬(X ⋁ Y ⋁ Z) = ¬X ⋀ ¬Y ⋀ ¬Z is TRUE or FALSE. Number of predicates is randomly generated from 5 to 25, values of predicates are random. Check the statement 100 times and show how many time was spend
+
+Lesson003_Exercise001
+
+Set-up a list of numbers. Write a program which finds sum ODD of list's items
+
+Lesson003_Exercise002
+
+Write a program which finds production of pairs of items in a list. Pair is first and last items, second and penultimate  etc.
+
+Lesson003_Exercise003
+
+Set up a list of real numbers. Write a program which finds difference between max and min values of functional part of items
+
+Lesson003_Exercise004
+
+Write a program which converts decimal number to binary
+
+Lesson003_Exercise005
+
+Set-up an array of random INT numbers with size of m*n (taken from console) so that number of items must be even. Print a table. Mix items so that each item will take a new place for not more than m*n / 2 iterations
