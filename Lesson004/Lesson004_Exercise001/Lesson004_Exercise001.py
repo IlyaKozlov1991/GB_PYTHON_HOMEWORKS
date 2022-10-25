@@ -9,7 +9,7 @@ n = int(input("Enter Your number (N): "))
 list1 = []
 i = 2
 
-while i * i <= n:
+while i**2 <= n:
     if n % i == 0:
             list1.append(i)
             n = n // i
