@@ -61,3 +61,15 @@ Write a program which converts decimal number to binary
 Lesson003_Exercise005
 
 Set-up an array of random INT numbers with size of m*n (taken from console) so that number of items must be even. Print a table. Mix items so that each item will take a new place for not more than m*n / 2 iterations
+
+Lesson004_Exercise001
+
+Give a natural number (N). Write a program that lists prime factors of (N)
+
+Lesson004_Exercise002
+
+Set-up a sequence of numbers. Write a program which prints list of non-repeating items of original sequence
+
+Less0n004_Exercise003
+
+A natural degree k is given. Randomly generate a list of coefficients (values from 0 to 100) of the polynomial and write the polynomial of degree k to the file
