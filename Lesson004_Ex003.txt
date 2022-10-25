@@ -4,3 +4,6 @@ Your polynominal of degree:
 
 Your polynominal of degree:
 25/10/2022 21:14:7: 94*x^3 + 93*x^2 + 39  = 0
+
+Your polynominal of degree:
+25/10/2022 21:26:42: 49*x^9 + 42*x^8 + 14*x^7 + 65*x^6 + 82*x^5 + 94*x^4 + 19*x^3 + 47*x^2 + 26  = 0
