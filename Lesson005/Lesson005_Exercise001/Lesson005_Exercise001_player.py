@@ -2,7 +2,7 @@
 
 from random import randint
 
-candies = 2021
+candies = 200
 n_player1 = False
 n_player2 = False
 n_total = 0
