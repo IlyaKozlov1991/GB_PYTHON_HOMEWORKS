@@ -4,7 +4,7 @@ This method includes several  stages described in submethods which are internall
 
 Stage 1 
 
-Initial Stage. Recieve a list including numbers and symbol representing operation to do. Input list is sorted to define the operation (submethod - find_operation)and then splited into two separate list which represent two complex numbers given by User (submethod - split_list).
+Filtering stage. Input data is received. Then the input data is filtered to check where complex numbers are and what kind of operations to be done.
 
 Stage 2
 
